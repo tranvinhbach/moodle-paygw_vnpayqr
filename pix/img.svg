@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 240 120" role="img" aria-label="VNPay QR">
+  <rect width="240" height="120" rx="10" ry="10" fill="#f5f8ff" stroke="#2f6fe4"/>
+  <text x="20" y="50" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#1f3b8a">VNPay</text>
+  <text x="145" y="50" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#2f6fe4">QR</text>
+  <rect x="20" y="68" width="40" height="40" fill="#fff" stroke="#2f6fe4"/>
+  <rect x="28" y="76" width="8" height="8" fill="#2f6fe4"/>
+  <rect x="44" y="76" width="8" height="8" fill="#2f6fe4"/>
+  <rect x="28" y="92" width="8" height="8" fill="#2f6fe4"/>
+  <rect x="44" y="92" width="8" height="8" fill="#2f6fe4"/>
+  <text x="70" y="95" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#334155">Quét mã để thanh toán</text>
+</svg>
